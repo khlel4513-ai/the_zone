@@ -1,0 +1,2662 @@
+[
+  {
+    "key": "community.title",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "عنوان القسم",
+    "default_en": "A community built by the people in it.",
+    "default_ar": "المجتمع ما ينبني وحده.",
+    "type": "text",
+    "sort_order": 0
+  },
+  {
+    "key": "community.description",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "وصف القسم",
+    "default_en": "The Zone is built by the people who participate in it — a place for belonging, shared interests, collaboration, and creating experiences together. You do not need to be an expert or have a project to join.",
+    "default_ar": "ذا زون يبنيها الناس اللي يشاركون بيها — مكان للانتماء والاهتمامات المشتركة والتعاون وصناعة التجارب سويّة. ما تحتاج تكون خبير أو عندك مشروع حتى تنضم.",
+    "type": "text",
+    "sort_order": 1
+  },
+  {
+    "key": "community.1.title",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 1 عنوان",
+    "default_en": "Belonging",
+    "default_ar": "الانتماء",
+    "type": "text",
+    "sort_order": 2
+  },
+  {
+    "key": "community.1.sub",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 1 عنوان فرعي",
+    "default_en": "A place to feel part of something",
+    "default_ar": "مكان تحس بيه إنك جزء من شي",
+    "type": "text",
+    "sort_order": 3
+  },
+  {
+    "key": "community.1.text",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 1 نص",
+    "default_en": "Come as you are, meet new people, and find a community you can return to.",
+    "default_ar": "تعال مثل ما أنت، تعرّف على ناس جدد، ولكَ مجتمع ترجعله.",
+    "type": "text",
+    "sort_order": 4
+  },
+  {
+    "key": "community.2.title",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 2 عنوان",
+    "default_en": "Shared interests",
+    "default_ar": "اهتمامات مشتركة",
+    "type": "text",
+    "sort_order": 5
+  },
+  {
+    "key": "community.2.sub",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 2 عنوان فرعي",
+    "default_en": "Connect around what you enjoy",
+    "default_ar": "تواصل حول الأشياء اللي تحبها",
+    "type": "text",
+    "sort_order": 6
+  },
+  {
+    "key": "community.2.text",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 2 نص",
+    "default_en": "Discover different interests and meet people who care about the same things.",
+    "default_ar": "اكتشف اهتمامات مختلفة وتعرّف على ناس يهتمون بنفس الأشياء.",
+    "type": "text",
+    "sort_order": 7
+  },
+  {
+    "key": "community.3.title",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 3 عنوان",
+    "default_en": "Collaboration",
+    "default_ar": "تعاون",
+    "type": "text",
+    "sort_order": 8
+  },
+  {
+    "key": "community.3.sub",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 3 عنوان فرعي",
+    "default_en": "Create experiences together",
+    "default_ar": "اصنعوا التجارب سويّة",
+    "type": "text",
+    "sort_order": 9
+  },
+  {
+    "key": "community.3.text",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 3 نص",
+    "default_en": "Work on ideas, take part in activities, and help shape what happens next.",
+    "default_ar": "اشتغل على الأفكار، شارك بالأنشطة، وساعد بصناعة اللي يصير بعدين.",
+    "type": "text",
+    "sort_order": 10
+  },
+  {
+    "key": "community.4.title",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 4 عنوان",
+    "default_en": "Join in",
+    "default_ar": "شارك",
+    "type": "text",
+    "sort_order": 11
+  },
+  {
+    "key": "community.4.sub",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 4 عنوان فرعي",
+    "default_en": "No expertise required",
+    "default_ar": "ما تحتاج خبرة",
+    "type": "text",
+    "sort_order": 12
+  },
+  {
+    "key": "community.4.text",
+    "page": "community",
+    "section": "المجتمع",
+    "label": "بطاقة 4 نص",
+    "default_en": "Share your interests and the activities you would like to join. We would love to know what brings you here.",
+    "default_ar": "شاركنا اهتماماتك والأنشطة اللي تحب تشارك بيها. يهمنا نعرف شنو اللي جابك.",
+    "type": "text",
+    "sort_order": 13
+  },
+  {
+    "key": "contact.title",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "عنوان القسم",
+    "default_en": "Get in touch.",
+    "default_ar": "تواصل ويّانا.",
+    "type": "text",
+    "sort_order": 14
+  },
+  {
+    "key": "contact.description",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "وصف القسم",
+    "default_en": "Ask about events, request a space booking, join the community, or share an idea. The team reviews requests and contacts you to confirm details.",
+    "default_ar": "اسأل عن الفعاليات، اطلب حجز المساحة، انضم للمجتمع، أو شارك فكرة. الفريق يراجع الطلبات ويتواصل معك لتأكيد التفاصيل.",
+    "type": "text",
+    "sort_order": 15
+  },
+  {
+    "key": "contact.location.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية الموقع",
+    "default_en": "Location",
+    "default_ar": "الموقع",
+    "type": "text",
+    "sort_order": 16
+  },
+  {
+    "key": "contact.location.value",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "قيمة الموقع",
+    "default_en": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل",
+    "default_ar": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل",
+    "type": "text",
+    "sort_order": 17
+  },
+  {
+    "key": "contact.hours.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية الأوقات",
+    "default_en": "Hours",
+    "default_ar": "الأوقات",
+    "type": "text",
+    "sort_order": 18
+  },
+  {
+    "key": "contact.hours.value",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "قيمة الأوقات",
+    "default_en": "3:00 PM – 9:00 PM",
+    "default_ar": "3:00 مساءً – 9:00 مساءً",
+    "type": "text",
+    "sort_order": 19
+  },
+  {
+    "key": "contact.phone.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية الهاتف",
+    "default_en": "Phone",
+    "default_ar": "الهاتف",
+    "type": "text",
+    "sort_order": 20
+  },
+  {
+    "key": "contact.whatsapp.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية واتساب",
+    "default_en": "WhatsApp",
+    "default_ar": "واتساب",
+    "type": "text",
+    "sort_order": 21
+  },
+  {
+    "key": "contact.whatsapp.cta",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "نص رابط واتساب",
+    "default_en": "Chat on WhatsApp",
+    "default_ar": "راسلنا على واتساب",
+    "type": "text",
+    "sort_order": 22
+  },
+  {
+    "key": "contact.instagram.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية إنستغرام",
+    "default_en": "Instagram",
+    "default_ar": "إنستغرام",
+    "type": "text",
+    "sort_order": 23
+  },
+  {
+    "key": "contact.instagram.cta",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "نص رابط إنستغرام",
+    "default_en": "Follow on Instagram",
+    "default_ar": "تابعنا على إنستغرام",
+    "type": "text",
+    "sort_order": 24
+  },
+  {
+    "key": "contact.booking.label",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "تسمية الحجز",
+    "default_en": "Booking",
+    "default_ar": "الحجز",
+    "type": "text",
+    "sort_order": 25
+  },
+  {
+    "key": "contact.booking.value",
+    "page": "contact",
+    "section": "تواصل",
+    "label": "قيمة الحجز",
+    "default_en": "Requests are reviewed by the team; not confirmed until approved.",
+    "default_ar": "الطلبات يراجعها الفريق؛ ولا تتأكد إلا بعد الموافقة.",
+    "type": "text",
+    "sort_order": 26
+  },
+  {
+    "key": "contact.form.note_title",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "عنوان ملاحظة النموذج",
+    "default_en": "Community / idea note",
+    "default_ar": "ملاحظة المجتمع / الفكرة",
+    "type": "text",
+    "sort_order": 27
+  },
+  {
+    "key": "contact.form.note_body",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "نص ملاحظة النموذج",
+    "default_en": "Share your interests or a general idea (events, clubs, initiatives, activities). You do not need to be an expert or have a project. Do not submit confidential or sensitive implementation details. Submitting does not guarantee acceptance, funding, collaboration, or implementation.",
+    "default_ar": "شارك اهتماماتك أو فكرة عامة (فعاليات، أندية، مبادرات، أنشطة). ما تحتاج تكون خبير أو عندك مشروع. لا ترسل معلومات سرية أو تفاصيل تنفيذية حساسة. الإرسال لا يضمن القبول أو التمويل أو التعاون أو التنفيذ.",
+    "type": "text",
+    "sort_order": 28
+  },
+  {
+    "key": "contact.form.name",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "حقل الاسم",
+    "default_en": "Full name",
+    "default_ar": "الاسم الكامل",
+    "type": "text",
+    "sort_order": 29
+  },
+  {
+    "key": "contact.form.phone",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "حقل الهاتف",
+    "default_en": "Phone number",
+    "default_ar": "رقم الهاتف",
+    "type": "text",
+    "sort_order": 30
+  },
+  {
+    "key": "contact.form.interest",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "حقل الاهتمام",
+    "default_en": "I’m interested in",
+    "default_ar": "أهتم بـ",
+    "type": "text",
+    "sort_order": 31
+  },
+  {
+    "key": "contact.form.opt.community",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خيار: مجتمع",
+    "default_en": "Joining the community",
+    "default_ar": "الانضمام إلى المجتمع",
+    "type": "text",
+    "sort_order": 32
+  },
+  {
+    "key": "contact.form.opt.events",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خيار: فعاليات",
+    "default_en": "Exploring events",
+    "default_ar": "استكشاف الفعاليات",
+    "type": "text",
+    "sort_order": 33
+  },
+  {
+    "key": "contact.form.opt.space",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خيار: مساحة",
+    "default_en": "Booking the space",
+    "default_ar": "حجز المساحة",
+    "type": "text",
+    "sort_order": 34
+  },
+  {
+    "key": "contact.form.opt.idea",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خيار: فكرة",
+    "default_en": "Sharing an idea",
+    "default_ar": "مشاركة فكرة",
+    "type": "text",
+    "sort_order": 35
+  },
+  {
+    "key": "contact.form.message",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "حقل الرسالة",
+    "default_en": "Your interests or general idea",
+    "default_ar": "اهتماماتك أو فكرتك العامة",
+    "type": "text",
+    "sort_order": 36
+  },
+  {
+    "key": "contact.form.placeholder",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "نص توضيحي للرسالة",
+    "default_en": "Tell us about your interests, or share a general idea, its purpose, audience, and support you’re seeking.",
+    "default_ar": "حدثنا عن اهتماماتك، أو شارك فكرة عامة وهدفها والفئة المستهدفة ونوع الدعم المطلوب.",
+    "type": "text",
+    "sort_order": 37
+  },
+  {
+    "key": "contact.form.submit",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "زر الإرسال",
+    "default_en": "Send request",
+    "default_ar": "إرسال الطلب",
+    "type": "text",
+    "sort_order": 38
+  },
+  {
+    "key": "contact.form.status",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "رسالة الحالة الافتراضية",
+    "default_en": "Submitting this form sends your request to The Zone team for review. The team will contact you to follow up.",
+    "default_ar": "إرسال هذا النموذج يرسل طلبك إلى فريق ذا زون للمراجعة، وسيتم التواصل معك للمتابعة.",
+    "type": "text",
+    "sort_order": 39
+  },
+  {
+    "key": "contact.form.success",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "رسالة النجاح",
+    "default_en": "تم إرسال الطلب وسيتم التواصل معك.",
+    "default_ar": "تم إرسال الطلب وسيتم التواصل معك.",
+    "type": "text",
+    "sort_order": 40
+  },
+  {
+    "key": "contact.form.error.name",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ: الاسم",
+    "default_en": "الرجاء إدخال الاسم الكامل.",
+    "default_ar": "الرجاء إدخال الاسم الكامل.",
+    "type": "text",
+    "sort_order": 41
+  },
+  {
+    "key": "contact.form.error.phone",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ: الهاتف",
+    "default_en": "الرجاء إدخال رقم الهاتف.",
+    "default_ar": "الرجاء إدخال رقم الهاتف.",
+    "type": "text",
+    "sort_order": 42
+  },
+  {
+    "key": "contact.form.error.phone_invalid",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ: هاتف غير صالح",
+    "default_en": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "default_ar": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "type": "text",
+    "sort_order": 43
+  },
+  {
+    "key": "contact.form.error.generic",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ عام",
+    "default_en": "فشل إرسال الطلب. يرجى المحاولة لاحقًا.",
+    "default_ar": "فشل إرسال الطلب. يرجى المحاولة لاحقًا.",
+    "type": "text",
+    "sort_order": 44
+  },
+  {
+    "key": "contact.form.err_name",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ الاسم مطلوب",
+    "default_en": "الرجاء إدخال الاسم الكامل.",
+    "default_ar": "الرجاء إدخال الاسم الكامل.",
+    "type": "text",
+    "sort_order": 45
+  },
+  {
+    "key": "contact.form.err_phone",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ الهاتف مطلوب",
+    "default_en": "الرجاء إدخال رقم الهاتف.",
+    "default_ar": "الرجاء إدخال رقم الهاتف.",
+    "type": "text",
+    "sort_order": 46
+  },
+  {
+    "key": "contact.form.err_phone_invalid",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "خطأ رقم هاتف غير صالح",
+    "default_en": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "default_ar": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "type": "text",
+    "sort_order": 47
+  },
+  {
+    "key": "contact.form.err_send",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "رسالة فشل الإرسال",
+    "default_en": "فشل إرسال الطلب. يرجى المحاولة لاحقًا.",
+    "default_ar": "فشل إرسال الطلب. يرجى المحاولة لاحقًا.",
+    "type": "text",
+    "sort_order": 48
+  },
+  {
+    "key": "contact.form.sending",
+    "page": "contact",
+    "section": "نموذج التواصل",
+    "label": "رسالة جاري الإرسال",
+    "default_en": "جارٍ إرسال الطلب...",
+    "default_ar": "جارٍ إرسال الطلب...",
+    "type": "text",
+    "sort_order": 49
+  },
+  {
+    "key": "contact.community_note.title",
+    "page": "contact",
+    "section": "الملاحظة الجانبية",
+    "label": "عنوان الملاحظة",
+    "default_en": "Community / idea note",
+    "default_ar": "ملاحظة المجتمع / الفكرة",
+    "type": "text",
+    "sort_order": 50
+  },
+  {
+    "key": "contact.community_note.line1",
+    "page": "contact",
+    "section": "الملاحظة الجانبية",
+    "label": "سطر 1",
+    "default_en": "Share your interests or a general idea (events, clubs, initiatives, activities). You do not need to be an expert or have a project.",
+    "default_ar": "شارك اهتماماتك أو فكرة عامة (فعاليات، أندية، مبادرات، أنشطة). ما تحتاج تكون خبير أو عندك مشروع.",
+    "type": "text",
+    "sort_order": 51
+  },
+  {
+    "key": "contact.community_note.line2",
+    "page": "contact",
+    "section": "الملاحظة الجانبية",
+    "label": "سطر 2",
+    "default_en": "Do not submit confidential or sensitive implementation details.",
+    "default_ar": "لا ترسل معلومات سرية أو تفاصيل تنفيذية حساسة.",
+    "type": "text",
+    "sort_order": 52
+  },
+  {
+    "key": "contact.community_note.line3",
+    "page": "contact",
+    "section": "الملاحظة الجانبية",
+    "label": "سطر 3",
+    "default_en": "Submitting does not guarantee acceptance, funding, collaboration, or implementation.",
+    "default_ar": "الإرسال لا يضمن القبول أو التمويل أو التعاون أو التنفيذ.",
+    "type": "text",
+    "sort_order": 53
+  },
+  {
+    "key": "contact.fact.booking_label",
+    "page": "contact",
+    "section": "معلومات التواصل",
+    "label": "حجز (عنوان)",
+    "default_en": "Booking",
+    "default_ar": "الحجز",
+    "type": "text",
+    "sort_order": 54
+  },
+  {
+    "key": "events.title",
+    "page": "events",
+    "section": "الفعاليات",
+    "label": "عنوان قسم الفعاليات",
+    "default_en": "What’s happening at The Zone?",
+    "default_ar": "شنو دا يصير بالـ Zone؟",
+    "type": "text",
+    "sort_order": 55
+  },
+  {
+    "key": "events.description",
+    "page": "events",
+    "section": "الفعاليات",
+    "label": "وصف قسم الفعاليات",
+    "default_en": "The Zone hosts diverse experiences. Each event has its own price, schedule, and participation requirements. You can explore details, review the price and date, and submit a booking request. Submitting a request does not mean it is confirmed — the team reviews it and contacts you to confirm the booking and explain the payment process. Online payments are not currently available.",
+    "default_ar": "ذا زون تستضيف تجارب متنوعة. لكل فعالية سعرها وموعدها ومتطلبات المشاركة الخاصة بيها. تگدر تستكشف التفاصيل، وتشوف السعر والتاريخ، وترسل طلب حجز. إرسال الطلب ما يعني تأكيده — الفريق يراجعه ويتواصل ويّاك لتأكيد الحجز وشرح طريقة الدفع. الدفع الإلكتروني غير متوفر حالياً.",
+    "type": "text",
+    "sort_order": 56
+  },
+  {
+    "key": "events.empty.title",
+    "page": "events",
+    "section": "الفعاليات (فارغ)",
+    "label": "عنوان عند عدم وجود فعاليات",
+    "default_en": "No Events Available Right Now",
+    "default_ar": "لا توجد فعاليات متاحة حاليًا",
+    "type": "text",
+    "sort_order": 57
+  },
+  {
+    "key": "events.empty.text",
+    "page": "events",
+    "section": "الفعاليات (فارغ)",
+    "label": "نص عند عدم وجود فعاليات",
+    "default_en": "We're preparing new events. Stay tuned for upcoming activities.",
+    "default_ar": "نعمل على تجهيز فعاليات جديدة. تابعنا لمعرفة آخر المستجدات.",
+    "type": "text",
+    "sort_order": 58
+  },
+  {
+    "key": "events.register.button",
+    "page": "events",
+    "section": "التسجيل في فعالية",
+    "label": "زر سجّل الآن",
+    "default_en": "Register Now",
+    "default_ar": "سجّل الآن",
+    "type": "text",
+    "sort_order": 59
+  },
+  {
+    "key": "events.register.kicker",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "عنوان صغير للنموذج",
+    "default_en": "تسجيل في فعالية",
+    "default_ar": "تسجيل في فعالية",
+    "type": "text",
+    "sort_order": 60
+  },
+  {
+    "key": "events.register.name",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل الاسم",
+    "default_en": "الاسم الكامل *",
+    "default_ar": "الاسم الكامل *",
+    "type": "text",
+    "sort_order": 61
+  },
+  {
+    "key": "events.register.phone",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل الهاتف",
+    "default_en": "رقم الهاتف *",
+    "default_ar": "رقم الهاتف *",
+    "type": "text",
+    "sort_order": 62
+  },
+  {
+    "key": "events.register.seats",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل المقاعد",
+    "default_en": "عدد المقاعد",
+    "default_ar": "عدد المقاعد",
+    "type": "text",
+    "sort_order": 63
+  },
+  {
+    "key": "events.register.note",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "ملاحظة النموذج",
+    "default_en": "سيتم حفظ تسجيلك وإرساله لفريق ذا زون للمراجعة والتواصل معك لتأكيد الحجز.",
+    "default_ar": "سيتم حفظ تسجيلك وإرساله لفريق ذا زون للمراجعة والتواصل معك لتأكيد الحجز.",
+    "type": "text",
+    "sort_order": 64
+  },
+  {
+    "key": "events.register.submit",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "زر إرسال",
+    "default_en": "إرسال التسجيل",
+    "default_ar": "إرسال التسجيل",
+    "type": "text",
+    "sort_order": 65
+  },
+  {
+    "key": "events.register.cancel",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "زر إلغاء",
+    "default_en": "إلغاء",
+    "default_ar": "إلغاء",
+    "type": "text",
+    "sort_order": 66
+  },
+  {
+    "key": "events.register.sending",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "رسالة جاري الإرسال",
+    "default_en": "جارٍ إرسال التسجيل...",
+    "default_ar": "جارٍ إرسال التسجيل...",
+    "type": "text",
+    "sort_order": 67
+  },
+  {
+    "key": "events.register.success",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "رسالة النجاح",
+    "default_en": "تم تسجيلك بنجاح. سيتواصل معك فريق ذا زون لتأكيد الحجز.",
+    "default_ar": "تم تسجيلك بنجاح. سيتواصل معك فريق ذا زون لتأكيد الحجز.",
+    "type": "text",
+    "sort_order": 68
+  },
+  {
+    "key": "events.register.error.missing",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ: فعالية غير محددة",
+    "default_en": "تعذر تحديد الفعالية. يرجى إعادة المحاولة.",
+    "default_ar": "تعذر تحديد الفعالية. يرجى إعادة المحاولة.",
+    "type": "text",
+    "sort_order": 69
+  },
+  {
+    "key": "events.empty.body",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "رسالة عدم وجود فعاليات (نص)",
+    "default_en": "We're preparing new events. Stay tuned for upcoming activities.",
+    "default_ar": "نعمل على تجهيز فعاليات جديدة. تابعنا لمعرفة آخر المستجدات.",
+    "type": "text",
+    "sort_order": 70
+  },
+  {
+    "key": "events.card.register",
+    "page": "events",
+    "section": "زر التسجيل",
+    "label": "زر سجّل الآن",
+    "default_en": "سجّل الآن",
+    "default_ar": "سجّل الآن",
+    "type": "text",
+    "sort_order": 71
+  },
+  {
+    "key": "events.card.fallback_image",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "نص بديل لصورة الفعالية",
+    "default_en": "صورة الفعالية",
+    "default_ar": "صورة الفعالية",
+    "type": "text",
+    "sort_order": 72
+  },
+  {
+    "key": "events.card.participation_label",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "عنوان تفاصيل المشاركة",
+    "default_en": "تفاصيل المشاركة:",
+    "default_ar": "تفاصيل المشاركة:",
+    "type": "text",
+    "sort_order": 73
+  },
+  {
+    "key": "events.card.fallback_desc",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "وصف افتراضي للفعالية",
+    "default_en": "تفاصيل الفعالية متاحة عند التواصل مع الفريق.",
+    "default_ar": "تفاصيل الفعالية متاحة عند التواصل مع الفريق.",
+    "type": "text",
+    "sort_order": 74
+  },
+  {
+    "key": "events.card.fallback_title",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "عنوان افتراضي للفعالية",
+    "default_en": "فعالية",
+    "default_ar": "فعالية",
+    "type": "text",
+    "sort_order": 75
+  },
+  {
+    "key": "events.card.free_price",
+    "page": "events",
+    "section": "قائمة الفعاليات",
+    "label": "نص السعر المجاني/حسب الطلب",
+    "default_en": "مجاني / حسب الطلب",
+    "default_ar": "مجاني / حسب الطلب",
+    "type": "text",
+    "sort_order": 76
+  },
+  {
+    "key": "events.modal.kicker",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "عنوان فرعي للنموذج",
+    "default_en": "تسجيل في فعالية",
+    "default_ar": "تسجيل في فعالية",
+    "type": "text",
+    "sort_order": 77
+  },
+  {
+    "key": "events.modal.title",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "عنوان نموذج التسجيل",
+    "default_en": "سجّل الآن",
+    "default_ar": "سجّل الآن",
+    "type": "text",
+    "sort_order": 78
+  },
+  {
+    "key": "events.modal.event_prefix",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "بادئة اسم الفعالية",
+    "default_en": "الفعالية: ",
+    "default_ar": "الفعالية: ",
+    "type": "text",
+    "sort_order": 79
+  },
+  {
+    "key": "events.modal.name_label",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل الاسم",
+    "default_en": "الاسم الكامل *",
+    "default_ar": "الاسم الكامل *",
+    "type": "text",
+    "sort_order": 80
+  },
+  {
+    "key": "events.modal.phone_label",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل الهاتف",
+    "default_en": "رقم الهاتف *",
+    "default_ar": "رقم الهاتف *",
+    "type": "text",
+    "sort_order": 81
+  },
+  {
+    "key": "events.modal.phone_placeholder",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "نموذج رقم الهاتف",
+    "default_en": "07xxxxxxxxx",
+    "default_ar": "07xxxxxxxxx",
+    "type": "text",
+    "sort_order": 82
+  },
+  {
+    "key": "events.modal.seats_label",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "حقل عدد المقاعد",
+    "default_en": "عدد المقاعد",
+    "default_ar": "عدد المقاعد",
+    "type": "text",
+    "sort_order": 83
+  },
+  {
+    "key": "events.modal.note",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "ملاحظة النموذج",
+    "default_en": "سيتم حفظ تسجيلك وإرساله لفريق ذا زون للمراجعة والتواصل معك لتأكيد الحجز.",
+    "default_ar": "سيتم حفظ تسجيلك وإرساله لفريق ذا زون للمراجعة والتواصل معك لتأكيد الحجز.",
+    "type": "text",
+    "sort_order": 84
+  },
+  {
+    "key": "events.modal.submit",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "زر الإرسال",
+    "default_en": "إرسال التسجيل",
+    "default_ar": "إرسال التسجيل",
+    "type": "text",
+    "sort_order": 85
+  },
+  {
+    "key": "events.modal.cancel",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "زر الإلغاء",
+    "default_en": "إلغاء",
+    "default_ar": "إلغاء",
+    "type": "text",
+    "sort_order": 86
+  },
+  {
+    "key": "events.modal.close_aria",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "وصف زر الإغلاق",
+    "default_en": "إغلاق",
+    "default_ar": "إغلاق",
+    "type": "text",
+    "sort_order": 87
+  },
+  {
+    "key": "events.modal.sending",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "رسالة جاري الإرسال",
+    "default_en": "جارٍ إرسال التسجيل...",
+    "default_ar": "جارٍ إرسال التسجيل...",
+    "type": "text",
+    "sort_order": 88
+  },
+  {
+    "key": "events.modal.err_no_event",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ عدم تحديد الفعالية",
+    "default_en": "تعذر تحديد الفعالية. يرجى إعادة المحاولة.",
+    "default_ar": "تعذر تحديد الفعالية. يرجى إعادة المحاولة.",
+    "type": "text",
+    "sort_order": 89
+  },
+  {
+    "key": "events.modal.err_name",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ الاسم مطلوب",
+    "default_en": "الرجاء إدخال الاسم الكامل.",
+    "default_ar": "الرجاء إدخال الاسم الكامل.",
+    "type": "text",
+    "sort_order": 90
+  },
+  {
+    "key": "events.modal.err_phone",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ الهاتف مطلوب",
+    "default_en": "الرجاء إدخال رقم الهاتف.",
+    "default_ar": "الرجاء إدخال رقم الهاتف.",
+    "type": "text",
+    "sort_order": 91
+  },
+  {
+    "key": "events.modal.err_phone_invalid",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ رقم هاتف غير صالح",
+    "default_en": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "default_ar": "رقم الهاتف غير صالح. يرجى إدخال رقم صحيح.",
+    "type": "text",
+    "sort_order": 92
+  },
+  {
+    "key": "events.modal.err_send",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ فشل الإرسال",
+    "default_en": "تعذر إرسال التسجيل. يرجى المحاولة لاحقاً.",
+    "default_ar": "تعذر إرسال التسجيل. يرجى المحاولة لاحقاً.",
+    "type": "text",
+    "sort_order": 93
+  },
+  {
+    "key": "events.modal.success",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "رسالة نجاح التسجيل",
+    "default_en": "تم تسجيلك بنجاح. سيتواصل معك فريق ذا زون لتأكيد الحجز.",
+    "default_ar": "تم تسجيلك بنجاح. سيتواصل معك فريق ذا زون لتأكيد الحجز.",
+    "type": "text",
+    "sort_order": 94
+  },
+  {
+    "key": "events.modal.err_unexpected",
+    "page": "events",
+    "section": "نموذج التسجيل",
+    "label": "خطأ غير متوقع",
+    "default_en": "حدث خطأ غير متوقع.",
+    "default_ar": "حدث خطأ غير متوقع.",
+    "type": "text",
+    "sort_order": 95
+  },
+  {
+    "key": "events.item1.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 1",
+    "default_en": "Scholarship &amp; opportunity workshops",
+    "default_ar": "ورش المنح والفرص",
+    "type": "text",
+    "sort_order": 96
+  },
+  {
+    "key": "events.item1.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 1",
+    "default_en": "Sessions to discover opportunities, prepare applications, and learn from shared experience.",
+    "default_ar": "جلسات لاكتشاف الفرص، تجهيز الطلبات، والتعلم من تجارب الآخرين.",
+    "type": "text",
+    "sort_order": 97
+  },
+  {
+    "key": "events.item1.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 1",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 98
+  },
+  {
+    "key": "events.item2.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 2",
+    "default_en": "Creative &amp; artistic workshops",
+    "default_ar": "ورش إبداعية وفنية",
+    "type": "text",
+    "sort_order": 99
+  },
+  {
+    "key": "events.item2.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 2",
+    "default_en": "Hands-on sessions to make, express, and explore creative interests together.",
+    "default_ar": "جلسات عملية للإبداع والتعبير واستكشاف الاهتمامات الفنية سويّة.",
+    "type": "text",
+    "sort_order": 100
+  },
+  {
+    "key": "events.item2.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 2",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 101
+  },
+  {
+    "key": "events.item3.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 3",
+    "default_en": "Scientific workshops",
+    "default_ar": "ورش علمية",
+    "type": "text",
+    "sort_order": 102
+  },
+  {
+    "key": "events.item3.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 3",
+    "default_en": "Learn, experiment, and explore ideas in science and technology with others.",
+    "default_ar": "تعلّم وجرّب واستكشف أفكار في العلم والتقنية ويّه غيرك.",
+    "type": "text",
+    "sort_order": 103
+  },
+  {
+    "key": "events.item3.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 3",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 104
+  },
+  {
+    "key": "events.item4.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 4",
+    "default_en": "Community events &amp; meetups",
+    "default_ar": "فعاليات ولقاءات مجتمعية",
+    "type": "text",
+    "sort_order": 105
+  },
+  {
+    "key": "events.item4.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 4",
+    "default_en": "Gatherings to connect with new people, share interests, and take part in the community.",
+    "default_ar": "تجمعات للتعرف على ناس جدد، مشاركة الاهتمامات، والمشاركة في المجتمع.",
+    "type": "text",
+    "sort_order": 106
+  },
+  {
+    "key": "events.item4.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 4",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 107
+  },
+  {
+    "key": "events.item5.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 5",
+    "default_en": "Study &amp; work sessions",
+    "default_ar": "جلسات دراسة وعمل",
+    "type": "text",
+    "sort_order": 108
+  },
+  {
+    "key": "events.item5.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 5",
+    "default_en": "Focused time to study or work alongside others in a shared environment.",
+    "default_ar": "وقت للتركيز بالدراسة أو العمل جنب غيرك في بيئة مشتركة.",
+    "type": "text",
+    "sort_order": 109
+  },
+  {
+    "key": "events.item5.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 5",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 110
+  },
+  {
+    "key": "events.item6.title",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "عنوان فعالية 6",
+    "default_en": "Chess activities &amp; tournaments",
+    "default_ar": "أنشطة وبطولات شطرنج",
+    "type": "text",
+    "sort_order": 111
+  },
+  {
+    "key": "events.item6.desc",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "وصف فعالية 6",
+    "default_en": "Play, practice, and join chess activities and tournaments organized by the team.",
+    "default_ar": "العب وتدرّب وشارك بأنشطة وبطولات الشطرنج اللي ينظمها الفريق.",
+    "type": "text",
+    "sort_order": 112
+  },
+  {
+    "key": "events.item6.note",
+    "page": "events",
+    "section": "عناصر ثابتة (افتراضي)",
+    "label": "ملاحظة فعالية 6",
+    "default_en": "Explore &amp; request",
+    "default_ar": "استكشف واطلب",
+    "type": "text",
+    "sort_order": 113
+  },
+  {
+    "key": "experiences.title",
+    "page": "experiences",
+    "section": "تجارب",
+    "label": "عنوان القسم",
+    "default_en": "Experiences at The Zone.",
+    "default_ar": "تجارب في ذا زون.",
+    "type": "text",
+    "sort_order": 114
+  },
+  {
+    "key": "experiences.description",
+    "page": "experiences",
+    "section": "تجارب",
+    "label": "وصف القسم",
+    "default_en": "Workshops, meetups, study and work sessions, chess, and ideas brought to life by the community. Event details, prices, and dates are shared when each activity is announced.",
+    "default_ar": "ورش ولقاءات وجلسات دراسة وعمل وشطرنج وأفكار يحييها المجتمع. تفاصيل الفعاليات والأسعار والمواعيد تُشارك عند الإعلان عن كل نشاط.",
+    "type": "text",
+    "sort_order": 115
+  },
+  {
+    "key": "experiences.card1.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 1",
+    "default_en": "Opportunities",
+    "default_ar": "فرص",
+    "type": "text",
+    "sort_order": 116
+  },
+  {
+    "key": "experiences.card1.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 1",
+    "default_en": "Workshop",
+    "default_ar": "ورشة",
+    "type": "text",
+    "sort_order": 117
+  },
+  {
+    "key": "experiences.card1.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 1",
+    "default_en": "Scholarship and opportunity workshops to learn, prepare, and take next steps.",
+    "default_ar": "ورش منح وفرص للتعلم والتجهيز واتخاذ خطوات جديدة.",
+    "type": "text",
+    "sort_order": 118
+  },
+  {
+    "key": "experiences.card2.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 2",
+    "default_en": "Creative",
+    "default_ar": "إبداع",
+    "type": "text",
+    "sort_order": 119
+  },
+  {
+    "key": "experiences.card2.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 2",
+    "default_en": "Workshop",
+    "default_ar": "ورشة",
+    "type": "text",
+    "sort_order": 120
+  },
+  {
+    "key": "experiences.card2.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 2",
+    "default_en": "Creative and artistic workshops where ideas become something you can make and share.",
+    "default_ar": "ورش إبداعية وفنية تتحول بيها الأفكار إلى شي تصنعه وتشاركه.",
+    "type": "text",
+    "sort_order": 121
+  },
+  {
+    "key": "experiences.card3.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 3",
+    "default_en": "Science",
+    "default_ar": "علم",
+    "type": "text",
+    "sort_order": 122
+  },
+  {
+    "key": "experiences.card3.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 3",
+    "default_en": "Workshop",
+    "default_ar": "ورشة",
+    "type": "text",
+    "sort_order": 123
+  },
+  {
+    "key": "experiences.card3.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 3",
+    "default_en": "Scientific workshops to explore, experiment, and learn together.",
+    "default_ar": "ورش علمية للاستكشاف والتجربة والتعلم سويّة.",
+    "type": "text",
+    "sort_order": 124
+  },
+  {
+    "key": "experiences.card4.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 4",
+    "default_en": "Meetups",
+    "default_ar": "لقاءات",
+    "type": "text",
+    "sort_order": 125
+  },
+  {
+    "key": "experiences.card4.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 4",
+    "default_en": "Community",
+    "default_ar": "مجتمع",
+    "type": "text",
+    "sort_order": 126
+  },
+  {
+    "key": "experiences.card4.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 4",
+    "default_en": "Community events and meetups to connect with people and shared interests.",
+    "default_ar": "فعاليات ولقاءات مجتمعية للتواصل ويّه الناس والاهتمامات المشتركة.",
+    "type": "text",
+    "sort_order": 127
+  },
+  {
+    "key": "experiences.card5.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 5",
+    "default_en": "Study &amp; work",
+    "default_ar": "دراسة وعمل",
+    "type": "text",
+    "sort_order": 128
+  },
+  {
+    "key": "experiences.card5.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 5",
+    "default_en": "Session",
+    "default_ar": "جلسة",
+    "type": "text",
+    "sort_order": 129
+  },
+  {
+    "key": "experiences.card5.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 5",
+    "default_en": "Study and work sessions alongside others in a focused, welcoming space.",
+    "default_ar": "جلسات دراسة وعمل جنب غيرك في مساحة هادئة ومرحبة.",
+    "type": "text",
+    "sort_order": 130
+  },
+  {
+    "key": "experiences.card6.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 6",
+    "default_en": "Chess",
+    "default_ar": "شطرنج",
+    "type": "text",
+    "sort_order": 131
+  },
+  {
+    "key": "experiences.card6.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 6",
+    "default_en": "Activity",
+    "default_ar": "نشاط",
+    "type": "text",
+    "sort_order": 132
+  },
+  {
+    "key": "experiences.card6.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 6",
+    "default_en": "Chess activities and tournaments for players who enjoy the game and the challenge.",
+    "default_ar": "أنشطة وبطولات شطرنج للي يحبون اللعبة والتحدي.",
+    "type": "text",
+    "sort_order": 133
+  },
+  {
+    "key": "experiences.card7.type",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "نوع تجربة 7",
+    "default_en": "Your idea",
+    "default_ar": "فكرتك",
+    "type": "text",
+    "sort_order": 134
+  },
+  {
+    "key": "experiences.card7.kind",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "تصنيف تجربة 7",
+    "default_en": "Initiative",
+    "default_ar": "مبادرة",
+    "type": "text",
+    "sort_order": 135
+  },
+  {
+    "key": "experiences.card7.desc",
+    "page": "experiences",
+    "section": "بطاقات",
+    "label": "وصف تجربة 7",
+    "default_en": "Events, clubs, and initiatives proposed by the community and supported when feasible.",
+    "default_ar": "فعاليات وأندية ومبادرات يقترحها المجتمع وتُدعم حسب الإمكانية.",
+    "type": "text",
+    "sort_order": 136
+  },
+  {
+    "key": "faq.title",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "عنوان القسم",
+    "default_en": "Good to know.",
+    "default_ar": "معلومات مفيدة.",
+    "type": "text",
+    "sort_order": 137
+  },
+  {
+    "key": "faq.description",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "وصف القسم",
+    "default_en": "A few answers about events, the space, and taking part at The Zone.",
+    "default_ar": "بعض الإجابات عن الفعاليات والمساحة والمشاركة في ذا زون.",
+    "type": "text",
+    "sort_order": 138
+  },
+  {
+    "key": "faq.q1",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 1",
+    "default_en": "What happens after I request an event booking?",
+    "default_ar": "شنو يصير بعد ما أرسل طلب حجز لفعالية؟",
+    "type": "text",
+    "sort_order": 139
+  },
+  {
+    "key": "faq.a1",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 1",
+    "default_en": "Submitting a booking request does not mean it is confirmed. The team reviews your request and contacts you to confirm the booking and explain the payment process. Online payments are not currently available.",
+    "default_ar": "إرسال طلب الحجز ما يعني تأكيده. الفريق يراجع طلبك ويتواصل ويّاك لتأكيد الحجز وشرح طريقة الدفع. الدفع الإلكتروني غير متوفر حالياً.",
+    "type": "text",
+    "sort_order": 140
+  },
+  {
+    "key": "faq.q2",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 2",
+    "default_en": "How does space booking work?",
+    "default_ar": "شلون يصير حجز المساحة؟",
+    "type": "text",
+    "sort_order": 141
+  },
+  {
+    "key": "faq.a2",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 2",
+    "default_en": "Submit a request with your preferred date, time, duration, expected attendance, activity type, and required facilities. The team reviews availability and contacts you. A request is not a confirmed reservation until approved.",
+    "default_ar": "قدّم طلب بموعدك المفضل والوقت والمدة وعدد الحضور المتوقع ونوع النشاط والمرافق المطلوبة. الفريق يراجع التوفر ويتواصل معك. الطلب ما يُعد حجزاً مؤكداً حتى تتم الموافقة عليه.",
+    "type": "text",
+    "sort_order": 142
+  },
+  {
+    "key": "faq.q3",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 3",
+    "default_en": "What are the space rates and facilities?",
+    "default_ar": "شنو أسعار المساحة والمرافق المتوفرة؟",
+    "type": "text",
+    "sort_order": 143
+  },
+  {
+    "key": "faq.a3",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 3",
+    "default_en": "Before 3:00 PM: 20,000 IQD per hour. From 3:00 PM to 9:00 PM: 30,000 IQD per hour. Facilities include tables, chairs, screen, projector, and Coffee Corner, with approximate capacity for 30 people.",
+    "default_ar": "قبل 3:00 مساءً: 20,000 دينار عراقي بالساعة. من 3:00 مساءً إلى 9:00 مساءً: 30,000 دينار عراقي بالساعة. المرافق تشمل طاولات وكراسي وشاشة وبروجكتر وركن القهوة، بسعة تقريبية 30 شخص.",
+    "type": "text",
+    "sort_order": 144
+  },
+  {
+    "key": "faq.q4",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 4",
+    "default_en": "Do I need experience to join the community?",
+    "default_ar": "هل أحتاج خبرة حتى أنضم للمجتمع؟",
+    "type": "text",
+    "sort_order": 145
+  },
+  {
+    "key": "faq.a4",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 4",
+    "default_en": "No. You do not need to be an expert or have a project to join. Share your interests and the kinds of activities you would like to take part in.",
+    "default_ar": "لا. ما تحتاج تكون خبير أو عندك مشروع. شارك اهتماماتك والأنشطة اللي تحب تشارك بيها.",
+    "type": "text",
+    "sort_order": 146
+  },
+  {
+    "key": "faq.q5",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 5",
+    "default_en": "What kinds of ideas can I share?",
+    "default_ar": "شنو أنواع الأفكار اللي أگدر أشاركها؟",
+    "type": "text",
+    "sort_order": 147
+  },
+  {
+    "key": "faq.a5",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 5",
+    "default_en": "You can propose events, clubs, community initiatives, activities, or new experiences. Please do not submit confidential or sensitive implementation details in an initial message. Submitting an idea does not guarantee acceptance, funding, collaboration, or implementation.",
+    "default_ar": "تگدر تقترح فعاليات أو أندية أو مبادرات مجتمعية أو أنشطة أو تجارب جديدة. رجاءً لا ترسل معلومات سرية أو تفاصيل تنفيذية حساسة في الرسالة الأولى. إرسال الفكرة لا يضمن القبول أو التمويل أو التعاون أو التنفيذ.",
+    "type": "text",
+    "sort_order": 148
+  },
+  {
+    "key": "faq.q6",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "سؤال 6",
+    "default_en": "Where and when is The Zone open?",
+    "default_ar": "وين ومتى تفتح ذا زون؟",
+    "type": "text",
+    "sort_order": 149
+  },
+  {
+    "key": "faq.a6",
+    "page": "faq",
+    "section": "الأسئلة الشائعة",
+    "label": "جواب 6",
+    "default_en": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل. Open 3:00 PM – 9:00 PM. Phone:",
+    "default_ar": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل. مفتوح 3:00 مساءً – 9:00 مساءً. الهاتف:",
+    "type": "text",
+    "sort_order": 150
+  },
+  {
+    "key": "footer.brand.text",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "نص العلامة",
+    "default_en": "The Zone — a youth-centered community space in Mosul.",
+    "default_ar": "ذا زون — مساحة شبابية مجتمعية في الموصل.",
+    "type": "text",
+    "sort_order": 151
+  },
+  {
+    "key": "footer.address",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "العنوان والأوقات",
+    "default_en": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل",
+    "default_ar": "حي الصديق، سايدين البحرين، الطابق الثاني من عمارة معرض إيفانو، الموصل",
+    "type": "text",
+    "sort_order": 152
+  },
+  {
+    "key": "footer.hours",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "ساعات العمل",
+    "default_en": "3:00 PM – 9:00 PM",
+    "default_ar": "3:00 مساءً – 9:00 مساءً",
+    "type": "text",
+    "sort_order": 153
+  },
+  {
+    "key": "footer.col.explore",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "عمود استكشف",
+    "default_en": "Explore",
+    "default_ar": "استكشف",
+    "type": "text",
+    "sort_order": 154
+  },
+  {
+    "key": "footer.col.takepart",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "عمود شارك",
+    "default_en": "Take part",
+    "default_ar": "شارك",
+    "type": "text",
+    "sort_order": 155
+  },
+  {
+    "key": "footer.col.contact",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "عمود تواصل",
+    "default_en": "Contact",
+    "default_ar": "تواصل",
+    "type": "text",
+    "sort_order": 156
+  },
+  {
+    "key": "footer.link.events",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط الفعاليات",
+    "default_en": "Events",
+    "default_ar": "الفعاليات",
+    "type": "text",
+    "sort_order": 157
+  },
+  {
+    "key": "footer.link.space",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط احجز المساحة",
+    "default_en": "Book the Space",
+    "default_ar": "احجز المساحة",
+    "type": "text",
+    "sort_order": 158
+  },
+  {
+    "key": "footer.link.community",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط انضم للمجتمع",
+    "default_en": "Join the Community",
+    "default_ar": "انضم إلى المجتمع",
+    "type": "text",
+    "sort_order": 159
+  },
+  {
+    "key": "footer.link.idea",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط شارك فكرتك",
+    "default_en": "Share Your Idea",
+    "default_ar": "شارك فكرتك",
+    "type": "text",
+    "sort_order": 160
+  },
+  {
+    "key": "footer.link.rates",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط الأسعار",
+    "default_en": "Rates",
+    "default_ar": "الأسعار",
+    "type": "text",
+    "sort_order": 161
+  },
+  {
+    "key": "footer.link.faq",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط الأسئلة الشائعة",
+    "default_en": "FAQ",
+    "default_ar": "الأسئلة الشائعة",
+    "type": "text",
+    "sort_order": 162
+  },
+  {
+    "key": "footer.link.getintouch",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "رابط تواصل",
+    "default_en": "Get in touch",
+    "default_ar": "تواصل",
+    "type": "text",
+    "sort_order": 163
+  },
+  {
+    "key": "footer.copyright",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "حقوق النشر",
+    "default_en": "© The Zone",
+    "default_ar": "© ذا زون",
+    "type": "text",
+    "sort_order": 164
+  },
+  {
+    "key": "footer.tagline",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "الشعار الختامي",
+    "default_en": "A place we couldn’t find for young people, so we decided to build it.",
+    "default_ar": "مكان ما لقيناه موجود للشباب، فقررنا نبنيه.",
+    "type": "text",
+    "sort_order": 165
+  },
+  {
+    "key": "footer.credit.8b",
+    "page": "footer",
+    "section": "التذييل",
+    "label": "نص رابط المصمم (غير مستخدم)",
+    "default_en": "",
+    "default_ar": "",
+    "type": "text",
+    "sort_order": 166
+  },
+  {
+    "key": "global.brand.name",
+    "page": "global",
+    "section": "الهوية",
+    "label": "اسم الموقع (كلمة THE)",
+    "default_en": "THE",
+    "default_ar": "THE",
+    "type": "text",
+    "sort_order": 167
+  },
+  {
+    "key": "global.brand.zone",
+    "page": "global",
+    "section": "الهوية",
+    "label": "اسم الموقع (كلمة ZONE)",
+    "default_en": "ZONE",
+    "default_ar": "زون",
+    "type": "text",
+    "sort_order": 168
+  },
+  {
+    "key": "global.meta.title",
+    "page": "global",
+    "section": "الميتاداتا",
+    "label": "عنوان الصفحة (المتصفح)",
+    "default_en": "The Zone — A place we couldn’t find for young people, so we decided to build it.",
+    "default_ar": "ذا زون — مكان ما لقيناه موجود للشباب، فقررنا نبنيه.",
+    "type": "text",
+    "sort_order": 169
+  },
+  {
+    "key": "global.meta.description",
+    "page": "global",
+    "section": "الميتاداتا",
+    "label": "وصف الموقع (Meta)",
+    "default_en": "The Zone is a youth-centered community space in Mosul, Iraq for events, workshops, study sessions, space booking, and shared ideas.",
+    "default_ar": "ذا زون مساحة شبابية في الموصل للفعاليات والورش وجلسات الدراسة والعمل وحجز المساحة ومشاركة الأفكار.",
+    "type": "text",
+    "sort_order": 170
+  },
+  {
+    "key": "global.a11y.skip",
+    "page": "global",
+    "section": "إمكانية الوصول",
+    "label": "رابط تخطي إلى المحتوى",
+    "default_en": "Skip to content",
+    "default_ar": "تجاوز إلى المحتوى",
+    "type": "text",
+    "sort_order": 171
+  },
+  {
+    "key": "global.lang_toggle.label",
+    "page": "global",
+    "section": "اللغة",
+    "label": "زر تبديل اللغة",
+    "default_en": "العربية",
+    "default_ar": "English",
+    "type": "text",
+    "sort_order": 172
+  },
+  {
+    "key": "opening.hero.title1",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "العنوان الرئيسي (سطر 1)",
+    "default_en": "A place we couldn’t find for young people,",
+    "default_ar": "مكان ما لقيناه موجود للشباب،",
+    "type": "text",
+    "sort_order": 173
+  },
+  {
+    "key": "opening.hero.title2",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "العنوان الرئيسي (سطر 2)",
+    "default_en": "so we decided to build it.",
+    "default_ar": "فقررنا نبنيه.",
+    "type": "text",
+    "sort_order": 174
+  },
+  {
+    "key": "opening.hero.lede",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "النص التعريفي الرئيسي",
+    "default_en": "The Zone is a space where people come together around ideas, experiences, and events. A place to meet new people, explore different interests, learn, work on your ideas, and become part of a community that creates its own experiences.",
+    "default_ar": "ذا زون مساحة تجمع الناس حول الأفكار والتجارب والفعاليات. مكان تلتقي فيه بناس جدد، وتكتشف اهتمامات مختلفة، وتتعلم، وتشتغل على أفكارك، وتكون جزءاً من مجتمع يصنع تجاربه بنفسه.",
+    "type": "text",
+    "sort_order": 175
+  },
+  {
+    "key": "opening.cta.explore",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "زر: استكشف الفعاليات",
+    "default_en": "Explore Events",
+    "default_ar": "استكشف الفعاليات",
+    "type": "text",
+    "sort_order": 176
+  },
+  {
+    "key": "opening.cta.community",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "زر: انضم إلى المجتمع",
+    "default_en": "Join the Community",
+    "default_ar": "انضم إلى المجتمع",
+    "type": "text",
+    "sort_order": 177
+  },
+  {
+    "key": "opening.cta.space",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "زر: احجز المساحة",
+    "default_en": "Book the Space",
+    "default_ar": "احجز المساحة",
+    "type": "text",
+    "sort_order": 178
+  },
+  {
+    "key": "opening.cta.idea",
+    "page": "home",
+    "section": "الافتتاحية",
+    "label": "زر: شارك فكرتك",
+    "default_en": "Share Your Idea",
+    "default_ar": "شارك فكرتك",
+    "type": "text",
+    "sort_order": 179
+  },
+  {
+    "key": "opening.visit.title",
+    "page": "home",
+    "section": "الافتتاحية (ما يمكنك فعله)",
+    "label": "عنوان القسم",
+    "default_en": "What you can do at The Zone.",
+    "default_ar": "شنو تگدر تسوي في ذا زون؟",
+    "type": "text",
+    "sort_order": 180
+  },
+  {
+    "key": "opening.step1.badge",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 1 - شارة",
+    "default_en": "Events",
+    "default_ar": "الفعاليات",
+    "type": "text",
+    "sort_order": 181
+  },
+  {
+    "key": "opening.step1.title",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 1 - عنوان",
+    "default_en": "Explore experiences",
+    "default_ar": "استكشف التجارب",
+    "type": "text",
+    "sort_order": 182
+  },
+  {
+    "key": "opening.step1.text",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 1 - نص",
+    "default_en": "Discover workshops, meetups, study and work sessions, chess activities, and other events organized by the team.",
+    "default_ar": "اكتشف الورش واللقاءات وجلسات الدراسة والعمل وأنشطة الشطرنج وفعاليات ثانية ينظمها الفريق.",
+    "type": "text",
+    "sort_order": 183
+  },
+  {
+    "key": "opening.step2.badge",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 2 - شارة",
+    "default_en": "Community",
+    "default_ar": "المجتمع",
+    "type": "text",
+    "sort_order": 184
+  },
+  {
+    "key": "opening.step2.title",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 2 - عنوان",
+    "default_en": "Join and connect",
+    "default_ar": "انضم وتواصل",
+    "type": "text",
+    "sort_order": 185
+  },
+  {
+    "key": "opening.step2.text",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 2 - نص",
+    "default_en": "Meet people who share your interests, take part in experiences, and become part of a growing community.",
+    "default_ar": "تعرّف على ناس يشاركونك اهتماماتك، شارك بالتجارب، وكن جزءاً من مجتمع يكبر ويكبر.",
+    "type": "text",
+    "sort_order": 186
+  },
+  {
+    "key": "opening.step3.badge",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 3 - شارة",
+    "default_en": "Space",
+    "default_ar": "المساحة",
+    "type": "text",
+    "sort_order": 187
+  },
+  {
+    "key": "opening.step3.title",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 3 - عنوان",
+    "default_en": "Book the venue",
+    "default_ar": "احجز المساحة",
+    "type": "text",
+    "sort_order": 188
+  },
+  {
+    "key": "opening.step3.text",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 3 - نص",
+    "default_en": "Request the space for workshops, photography or filming, meetings, work sessions, or community activities.",
+    "default_ar": "اطلب حجز المساحة للورش أو التصوير، والاجتماعات، وجلسات العمل، أو الأنشطة المجتمعية.",
+    "type": "text",
+    "sort_order": 189
+  },
+  {
+    "key": "opening.step4.badge",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 4 - شارة",
+    "default_en": "Ideas",
+    "default_ar": "الأفكار",
+    "type": "text",
+    "sort_order": 190
+  },
+  {
+    "key": "opening.step4.title",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 4 - عنوان",
+    "default_en": "Share your idea",
+    "default_ar": "شارك فكرتك",
+    "type": "text",
+    "sort_order": 191
+  },
+  {
+    "key": "opening.step4.text",
+    "page": "home",
+    "section": "الافتتاحية (خطوات)",
+    "label": "الخطوة 4 - نص",
+    "default_en": "Propose an event, club, or initiative. The team reviews each idea and may support it depending on availability and feasibility.",
+    "default_ar": "اقترح فعالية أو نادي أو مبادرة. الفريق يراجع كل فكرة وممكن يدعمها حسب التوفر والإمكانية.",
+    "type": "text",
+    "sort_order": 192
+  },
+  {
+    "key": "home.hero.cta.book_venue",
+    "page": "home",
+    "section": "الأزرار",
+    "label": "زر احجز المكان (الهيرو)",
+    "default_en": "Book the venue",
+    "default_ar": "احجز المكان",
+    "type": "text",
+    "sort_order": 193
+  },
+  {
+    "key": "ideas.title",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "عنوان القسم",
+    "default_en": "Share your idea.",
+    "default_ar": "شارك فكرتك.",
+    "type": "text",
+    "sort_order": 194
+  },
+  {
+    "key": "ideas.step1.title",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 1 عنوان",
+    "default_en": "What can you propose?",
+    "default_ar": "شنو تگدر تقترح؟",
+    "type": "text",
+    "sort_order": 195
+  },
+  {
+    "key": "ideas.step1.text",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 1 نص",
+    "default_en": "Events, clubs, community initiatives, activities, or new experiences. Share a general overview, its purpose, its target audience, and the type of collaboration you are seeking.",
+    "default_ar": "فعاليات، أندية، مبادرات مجتمعية، أنشطة، أو تجارب جديدة. شارك نظرة عامة عن الفكرة، هدفها، الفئة المستهدفة، ونوع التعاون اللي تبحث عنه.",
+    "type": "text",
+    "sort_order": 196
+  },
+  {
+    "key": "ideas.step2.title",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 2 عنوان",
+    "default_en": "How The Zone can support",
+    "default_ar": "شلون تگدر ذا زون تدعم",
+    "type": "text",
+    "sort_order": 197
+  },
+  {
+    "key": "ideas.step2.text",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 2 نص",
+    "default_en": "Depending on availability and feasibility, The Zone may support an idea through space, promotion, organization, or collaboration.",
+    "default_ar": "حسب التوفر والإمكانية، ممكن ذا زون تدعم الفكرة بتوفير المساحة أو الترويج أو التنظيم أو التعاون.",
+    "type": "text",
+    "sort_order": 198
+  },
+  {
+    "key": "ideas.step3.title",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 3 عنوان",
+    "default_en": "Please keep details general",
+    "default_ar": "رجاءً خلي التفاصيل عامة",
+    "type": "text",
+    "sort_order": 199
+  },
+  {
+    "key": "ideas.step3.text",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 3 نص",
+    "default_en": "Do not submit confidential or sensitive implementation details in an initial message. Submitting an idea does not guarantee acceptance, funding, collaboration, or implementation.",
+    "default_ar": "لا ترسل معلومات سرية أو تفاصيل تنفيذية حساسة في الرسالة الأولى. إرسال الفكرة لا يضمن القبول أو التمويل أو التعاون أو التنفيذ.",
+    "type": "text",
+    "sort_order": 200
+  },
+  {
+    "key": "ideas.step3.contact",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 3 تواصل",
+    "default_en": "To share your idea, contact the team at",
+    "default_ar": "لمشاركة فكرتك، تواصل ويّه الفريق على",
+    "type": "text",
+    "sort_order": 201
+  },
+  {
+    "key": "ideas.step3.contact2",
+    "page": "ideas",
+    "section": "شارك فكرتك",
+    "label": "خطوة 3 تواصل (تكملة)",
+    "default_en": "with your name, idea title, type, summary, audience, and the support you are looking for.",
+    "default_ar": "واذكر اسمك وعنوان الفكرة ونوعها وملخصها والفئة المستهدفة ونوع الدعم المطلوب.",
+    "type": "text",
+    "sort_order": 202
+  },
+  {
+    "key": "ideas.step.01",
+    "page": "ideas",
+    "section": "خطوات",
+    "label": "رقم الخطوة 1",
+    "default_en": "01",
+    "default_ar": "01",
+    "type": "text",
+    "sort_order": 203
+  },
+  {
+    "key": "ideas.step.02",
+    "page": "ideas",
+    "section": "خطوات",
+    "label": "رقم الخطوة 2",
+    "default_en": "02",
+    "default_ar": "02",
+    "type": "text",
+    "sort_order": 204
+  },
+  {
+    "key": "ideas.step.03",
+    "page": "ideas",
+    "section": "خطوات",
+    "label": "رقم الخطوة 3",
+    "default_en": "03",
+    "default_ar": "03",
+    "type": "text",
+    "sort_order": 205
+  },
+  {
+    "key": "nav.menu.events",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: الفعاليات",
+    "default_en": "Events",
+    "default_ar": "الفعاليات",
+    "type": "text",
+    "sort_order": 206
+  },
+  {
+    "key": "nav.menu.space",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: احجز المساحة",
+    "default_en": "Book the Space",
+    "default_ar": "احجز المساحة",
+    "type": "text",
+    "sort_order": 207
+  },
+  {
+    "key": "nav.menu.community",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: المجتمع",
+    "default_en": "Community",
+    "default_ar": "المجتمع",
+    "type": "text",
+    "sort_order": 208
+  },
+  {
+    "key": "nav.menu.rates",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: الأسعار",
+    "default_en": "Rates",
+    "default_ar": "الأسعار",
+    "type": "text",
+    "sort_order": 209
+  },
+  {
+    "key": "nav.menu.contact",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: تواصل",
+    "default_en": "Contact",
+    "default_ar": "تواصل",
+    "type": "text",
+    "sort_order": 210
+  },
+  {
+    "key": "nav.menu.idea",
+    "page": "nav",
+    "section": "القائمة الرئيسية",
+    "label": "رابط: شارك فكرتك",
+    "default_en": "Share Your Idea",
+    "default_ar": "شارك فكرتك",
+    "type": "text",
+    "sort_order": 211
+  },
+  {
+    "key": "nav.cta.explore",
+    "page": "nav",
+    "section": "أزرار",
+    "label": "زر استكشف الفعاليات (الشريط)",
+    "default_en": "Explore Events",
+    "default_ar": "استكشف الفعاليات",
+    "type": "text",
+    "sort_order": 212
+  },
+  {
+    "key": "nav.mobile.menu",
+    "page": "nav",
+    "section": "الموبايل",
+    "label": "زر القائمة",
+    "default_en": "Menu",
+    "default_ar": "القائمة",
+    "type": "text",
+    "sort_order": 213
+  },
+  {
+    "key": "nav.mobile.close",
+    "page": "nav",
+    "section": "الموبايل",
+    "label": "زر إغلاق القائمة",
+    "default_en": "Close",
+    "default_ar": "إغلاق",
+    "type": "text",
+    "sort_order": 214
+  },
+  {
+    "key": "nav.aria.main",
+    "page": "nav",
+    "section": "تنقل",
+    "label": "وصف تنقل رئيسي",
+    "default_en": "Main navigation",
+    "default_ar": "التنقل الرئيسي",
+    "type": "text",
+    "sort_order": 215
+  },
+  {
+    "key": "nav.aria.main_mobile",
+    "page": "nav",
+    "section": "تنقل",
+    "label": "وصف تنقل موبايل",
+    "default_en": "Main navigation, mobile",
+    "default_ar": "التنقل الرئيسي، موبايل",
+    "type": "text",
+    "sort_order": 216
+  },
+  {
+    "key": "nav.logo.aria",
+    "page": "nav",
+    "section": "تنقل",
+    "label": "وصف شعار",
+    "default_en": "The Zone, back to the top",
+    "default_ar": "ذا زون، العودة للأعلى",
+    "type": "text",
+    "sort_order": 217
+  },
+  {
+    "key": "rates.title",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "عنوان القسم",
+    "default_en": "Space rates & booking.",
+    "default_ar": "أسعار المساحة والحجز.",
+    "type": "text",
+    "sort_order": 218
+  },
+  {
+    "key": "rates.description",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "وصف القسم",
+    "default_en": "The Zone’s space is available for workshops, photography and filming, meetings, work sessions, and community activities. Facilities include tables, chairs, screen, projector, and Coffee Corner. Approximate capacity: 30 people.",
+    "default_ar": "مساحة ذا زون متاحة للورش والتصوير، والاجتماعات، وجلسات العمل، والأنشطة المجتمعية. المرافق تشمل طاولات وكراسي وشاشة وبروجكتر وركن القهوة. السعة التقريبية: 30 شخص.",
+    "type": "text",
+    "sort_order": 219
+  },
+  {
+    "key": "rates.note",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "ملاحظة جانبية",
+    "default_en": "Submit a booking request with your preferred date, time, duration, expected attendance, activity type, and required facilities. The team reviews availability and contacts you. A request is not a confirmed reservation until approved.",
+    "default_ar": "قدّم طلب حجز بموعدك المفضل، الوقت، المدة، عدد الحضور المتوقع، نوع النشاط، والمرافق المطلوبة. الفريق يراجع التوفر ويتواصل معك. الطلب لا يُعد حجزاً مؤكداً حتى تتم الموافقة عليه.",
+    "type": "text",
+    "sort_order": 220
+  },
+  {
+    "key": "rates.row1.title",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 1 عنوان",
+    "default_en": "Before 3:00 PM",
+    "default_ar": "قبل 3:00 مساءً",
+    "type": "text",
+    "sort_order": 221
+  },
+  {
+    "key": "rates.row1.sub",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 1 فرعي",
+    "default_en": "Official hourly rate",
+    "default_ar": "السعر الرسمي بالساعة",
+    "type": "text",
+    "sort_order": 222
+  },
+  {
+    "key": "rates.row1.price",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 1 سعر",
+    "default_en": "20,000 <small>IQD / hour</small>",
+    "default_ar": "20,000 <small>دينار/ساعة</small>",
+    "type": "text",
+    "sort_order": 223
+  },
+  {
+    "key": "rates.row2.title",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 2 عنوان",
+    "default_en": "3:00 PM – 9:00 PM",
+    "default_ar": "3:00 مساءً – 9:00 مساءً",
+    "type": "text",
+    "sort_order": 224
+  },
+  {
+    "key": "rates.row2.sub",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 2 فرعي",
+    "default_en": "Official hourly rate",
+    "default_ar": "السعر الرسمي بالساعة",
+    "type": "text",
+    "sort_order": 225
+  },
+  {
+    "key": "rates.row2.price",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 2 سعر",
+    "default_en": "30,000 <small>IQD / hour</small>",
+    "default_ar": "30,000 <small>دينار/ساعة</small>",
+    "type": "text",
+    "sort_order": 226
+  },
+  {
+    "key": "rates.row3.title",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 3 عنوان",
+    "default_en": "Working hours",
+    "default_ar": "أوقات الدوام",
+    "type": "text",
+    "sort_order": 227
+  },
+  {
+    "key": "rates.row3.sub",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 3 فرعي",
+    "default_en": "Open daily for visits and activities",
+    "default_ar": "مفتوح يومياً للزيارات والأنشطة",
+    "type": "text",
+    "sort_order": 228
+  },
+  {
+    "key": "rates.row3.value",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 3 قيمة",
+    "default_en": "3:00 PM – 9:00 PM",
+    "default_ar": "3:00 مساءً – 9:00 مساءً",
+    "type": "text",
+    "sort_order": 229
+  },
+  {
+    "key": "rates.row4.title",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 4 عنوان",
+    "default_en": "Approximate capacity",
+    "default_ar": "السعة التقريبية",
+    "type": "text",
+    "sort_order": 230
+  },
+  {
+    "key": "rates.row4.sub",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 4 فرعي",
+    "default_en": "Suitable for group activities and sessions",
+    "default_ar": "مناسب للأنشطة والجلسات الجماعية",
+    "type": "text",
+    "sort_order": 231
+  },
+  {
+    "key": "rates.row4.value",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "صف 4 قيمة",
+    "default_en": "30 people",
+    "default_ar": "30 شخص",
+    "type": "text",
+    "sort_order": 232
+  },
+  {
+    "key": "rates.before.unit",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "وحدة السعر (قبل 3)",
+    "default_en": "IQD / hour",
+    "default_ar": "IQD / hour",
+    "type": "text",
+    "sort_order": 233
+  },
+  {
+    "key": "rates.after.unit",
+    "page": "rates",
+    "section": "الأسعار",
+    "label": "وحدة السعر (بعد 3)",
+    "default_en": "IQD / hour",
+    "default_ar": "IQD / hour",
+    "type": "text",
+    "sort_order": 234
+  },
+  {
+    "key": "space.title",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "عنوان القسم",
+    "default_en": "Book the space for your next idea.",
+    "default_ar": "احجز المساحة لفكرتك الجاية.",
+    "type": "text",
+    "sort_order": 235
+  },
+  {
+    "key": "space.description",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "وصف القسم",
+    "default_en": "The Zone’s physical space is available for workshops, photography and filming, meetings, work sessions, and community activities. Approximate capacity: 30 people.",
+    "default_ar": "مساحة ذا زون متاحة للورش والتصوير، والاجتماعات، وجلسات العمل، والأنشطة المجتمعية. السعة التقريبية: 30 شخص.",
+    "type": "text",
+    "sort_order": 236
+  },
+  {
+    "key": "space.facilities.label",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "عنوان: المرافق",
+    "default_en": "Facilities",
+    "default_ar": "المرافق",
+    "type": "text",
+    "sort_order": 237
+  },
+  {
+    "key": "space.facilities.value",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "قيمة: المرافق",
+    "default_en": "Tables, chairs, screen, projector, and Coffee Corner.",
+    "default_ar": "طاولات، كراسي، شاشة، بروجكتر، وركن القهوة.",
+    "type": "text",
+    "sort_order": 238
+  },
+  {
+    "key": "space.rate1.label",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "الفترة 1",
+    "default_en": "Before 3:00 PM",
+    "default_ar": "قبل 3:00 مساءً",
+    "type": "text",
+    "sort_order": 239
+  },
+  {
+    "key": "space.rate1.value",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "سعر الفترة 1",
+    "default_en": "20,000 IQD per hour.",
+    "default_ar": "20,000 دينار عراقي بالساعة.",
+    "type": "text",
+    "sort_order": 240
+  },
+  {
+    "key": "space.rate2.label",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "الفترة 2",
+    "default_en": "3:00 PM – 9:00 PM",
+    "default_ar": "3:00 مساءً – 9:00 مساءً",
+    "type": "text",
+    "sort_order": 241
+  },
+  {
+    "key": "space.rate2.value",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "سعر الفترة 2",
+    "default_en": "30,000 IQD per hour.",
+    "default_ar": "30,000 دينار عراقي بالساعة.",
+    "type": "text",
+    "sort_order": 242
+  },
+  {
+    "key": "space.note",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "ملاحظة الحجز",
+    "default_en": "Submitting a booking request does not confirm the reservation. The team reviews availability and contacts you.",
+    "default_ar": "إرسال طلب الحجز لا يعني تأكيد الحجز. الفريق يراجع التوفر ويتواصل معك.",
+    "type": "text",
+    "sort_order": 243
+  },
+  {
+    "key": "space.badge1",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "شارة صورة 1",
+    "default_en": "The space",
+    "default_ar": "المساحة",
+    "type": "text",
+    "sort_order": 244
+  },
+  {
+    "key": "space.badge2",
+    "page": "space",
+    "section": "حجز المساحة",
+    "label": "شارة صورة 2",
+    "default_en": "For gatherings",
+    "default_ar": "للتجمعات",
+    "type": "text",
+    "sort_order": 245
+  },
+  {
+    "key": "ways.title",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنوان القسم",
+    "default_en": "Many ways to take part.",
+    "default_ar": "طرق كثيرة للمشاركة.",
+    "type": "text",
+    "sort_order": 246
+  },
+  {
+    "key": "ways.description",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "وصف القسم",
+    "default_en": "Workshops, study and work sessions, creative projects, or a place to meet — The Zone is shaped by what people bring into it.",
+    "default_ar": "ورش، جلسات دراسة وعمل، مشاريع إبداعية، أو مكان للقاء — ذا زون تتشكل بما يحضره الناس معها.",
+    "type": "text",
+    "sort_order": 247
+  },
+  {
+    "key": "ways.1.title",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 1 عنوان",
+    "default_en": "Workshops",
+    "default_ar": "ورش العمل",
+    "type": "text",
+    "sort_order": 248
+  },
+  {
+    "key": "ways.1.text",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 1 نص",
+    "default_en": "Creative, scientific, and opportunity workshops where you can learn and try something new.",
+    "default_ar": "ورش إبداعية وعلمية وورش فرص تتعلم بيها وتجرب شي جديد.",
+    "type": "text",
+    "sort_order": 249
+  },
+  {
+    "key": "ways.2.title",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 2 عنوان",
+    "default_en": "Study & work",
+    "default_ar": "دراسة وعمل",
+    "type": "text",
+    "sort_order": 250
+  },
+  {
+    "key": "ways.2.text",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 2 نص",
+    "default_en": "A shared place to focus, work on your ideas, or sit alongside others.",
+    "default_ar": "مكان مشترك للتركيز، تشتغل على أفكارك، أو تقعد ويّه غيرك.",
+    "type": "text",
+    "sort_order": 251
+  },
+  {
+    "key": "ways.3.title",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 3 عنوان",
+    "default_en": "Chess & meetups",
+    "default_ar": "شطرنج ولقاءات",
+    "type": "text",
+    "sort_order": 252
+  },
+  {
+    "key": "ways.3.text",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 3 نص",
+    "default_en": "Chess activities, tournaments, and community meetups around shared interests.",
+    "default_ar": "أنشطة وبطولات شطرنج ولقاءات مجتمعية حول اهتمامات مشتركة.",
+    "type": "text",
+    "sort_order": 253
+  },
+  {
+    "key": "ways.4.title",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 4 عنوان",
+    "default_en": "Create & film",
+    "default_ar": "إبداع وتصوير",
+    "type": "text",
+    "sort_order": 254
+  },
+  {
+    "key": "ways.4.text",
+    "page": "space",
+    "section": "طرق المشاركة",
+    "label": "عنصر 4 نص",
+    "default_en": "Photography, filming, and creative sessions in a space ready for your project.",
+    "default_ar": "تصوير وجلسات إبداعية في مساحة جاهزة لمشروعك.",
+    "type": "text",
+    "sort_order": 255
+  },
+  {
+    "key": "space.card3.title_amp",
+    "page": "space",
+    "section": "بطاقات",
+    "label": "دراسة وعمل (&)",
+    "default_en": "Study &amp; work",
+    "default_ar": "دراسة وعمل",
+    "type": "text",
+    "sort_order": 256
+  },
+  {
+    "key": "space.card4.title_amp",
+    "page": "space",
+    "section": "بطاقات",
+    "label": "شطرنج ولقاءات (&)",
+    "default_en": "Chess &amp; meetups",
+    "default_ar": "شطرنج ولقاءات",
+    "type": "text",
+    "sort_order": 257
+  },
+  {
+    "key": "space.card5.title_amp",
+    "page": "space",
+    "section": "بطاقات",
+    "label": "إبداع وتصوير (&)",
+    "default_en": "Create &amp; film",
+    "default_ar": "إبداع وتصوير",
+    "type": "text",
+    "sort_order": 258
+  },
+  {
+    "key": "events.empty.title_en",
+    "page": "events",
+    "section": "الفعالية (فارغ)",
+    "label": "عنوان عند عدم وجود فعاليات (English)",
+    "default_en": "No Events Available Right Now",
+    "default_ar": "لا توجد فعاليات متاحة حاليًا",
+    "type": "text",
+    "sort_order": 57
+  },
+  {
+    "key": "events.empty.body_en",
+    "page": "events",
+    "section": "الفعالية (فارغ)",
+    "label": "نص عند عدم وجود فعاليات (English)",
+    "default_en": "We're preparing new events. Stay tuned for upcoming activities.",
+    "default_ar": "نعمل على تجهيز فعاليات جديدة. تابعنا لمعرفة آخر المستجدات.",
+    "type": "text",
+    "sort_order": 58
+  },
+  {
+    "key": "events.card.register_en",
+    "page": "events",
+    "section": "ال cardinality (فارغ)",
+    "label": "زر Register Now",
+    "default_en": "Register Now",
+    "default_ar": "Register Now",
+    "type": "text",
+    "sort_order": 59
+  },
+  {
+    "key": "events.card.full_en",
+    "page": "events",
+    "section": "ال cardinality (فارغ)",
+    "label": "زر Registration Full",
+    "default_en": "Registration Full",
+    "default_ar": "Registration Full",
+    "type": "text",
+    "sort_order": 60
+  },
+  {
+    "key": "events.lookup.summary",
+    "page": "events",
+    "section": "ال بحث عن التذكرة",
+    "label": "زر عرض تذكرتي",
+    "default_en": "عرض تذكرتي",
+    "default_ar": "عرض تذكرتي",
+    "type": "text",
+    "sort_order": 61
+  },
+  {
+    "key": "events.lookup.body",
+    "page": "events",
+    "section": "ال بحث عن التذكرة",
+    "label": "نص شرح بحث التذكرة",
+    "default_en": "أدخل رقم الحجز ورقم الهاتف المستخدم أثناء التسجيل لعرض تذكرتك الرقمية (إن كانت مفعّلة ومُصدرة).",
+    "default_ar": "أدخل رقم الحجز ورقم الهاتف المستخدم أثناء التسجيل لعرض تذكرتك الرقمية (إن كانت مفعّلة ومُصدرة).",
+    "type": "text",
+    "sort_order": 62
+  },
+  {
+    "key": "events.lookup.submit",
+    "page": "events",
+    "section": "ال بحث عن التذكرة",
+    "label": "زر عرض التذكرة",
+    "default_en": "عرض التذكرة",
+    "default_ar": "عرض التذكرة",
+    "type": "text",
+    "sort_order": 63
+  }
+]

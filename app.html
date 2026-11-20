@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Zone — لوحة الإدارة</title>
+<meta name="description" content="لوحة إدارة ذا زون — إدارة الفعاليات والحجوزات والمجتمع والمحتوى.">
+<link rel="icon" href="../logo/1782906910642.png" type="image/png">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<style>
+@font-face { font-family: 'Google Sans'; font-style: normal; font-weight: 400 500 700; font-display: swap; src: url(https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjcUvaYr.woff2) format('woff2'); unicode-range: U+0600-06FF, U+0750-077F, U+0870-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC; }
+@font-face { font-family: 'Google Sans'; font-style: normal; font-weight: 400 500 700; font-display: swap; src: url(https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Google Sans Fallback"; src: local("Arial"), local("Helvetica"); size-adjust: 102.5%; ascent-override: 94.6%; descent-override: 28.3%; }
+</style>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ============ LOGIN ============ -->
+<div id="login-box" class="login-page">
+  <div class="login-card">
+    <div class="brand">
+      <img src="../logo/IMG_20260701_144901.png" alt="The Zone">
+      <div class="brand-text"><span class="word">THE<span>ZONE</span></span><small>إدارة المنصة</small></div>
+    </div>
+    <h2>تسجيل الدخول</h2>
+    <p>وصول آمن للمشرفين المعتمدين لإدارة المنصة والعمليات.</p>
+    <div class="login-error" id="login-error" role="alert"></div>
+    <form id="login-form" class="login-form">
+      <div class="field"><label for="login-email">البريد الإلكتروني</label><input id="login-email" type="email" name="email" autocomplete="username" required></div>
+      <div class="field"><label for="login-password">كلمة المرور</label><input id="login-password" type="password" name="password" autocomplete="current-password" required></div>
+      <button type="submit" class="btn-primary">دخول إلى اللوحة</button>
+    </form>
+    <p class="login-hint">سجّل الدخول باستخدام حساب المشرف المعتمد.</p>
+    <p class="login-hint"><a id="reset-link" href="#">إعادة تعيين كلمة المرور</a></p>
+  </div>
+</div>
+
+<!-- ============ APP ============ -->
+<div id="app-box" style="display:none" class="app">
+  <aside id="admin-sidebar" class="sidebar" aria-label="التنقل الرئيسي">
+    <div class="sidebar-brand">
+      <img src="../logo/IMG_20260701_144901.png" alt="The Zone">
+      <div><strong>THE ZONE</strong><span>إدارة المنصة</span></div>
+    </div>
+
+    <div class="nav-group" data-group="overview">
+      <button type="button" class="group-toggle" data-target="group-overview" aria-expanded="true"><span>نظرة عامة</span><i>▾</i></button>
+      <nav id="group-overview" class="sidebar-nav group-body">
+        <button type="button" class="nav-item active" data-page="dashboard" onclick="router('dashboard')"><span class="icon">◫</span><span>لوحة التحكم</span></button>
+        <button type="button" class="nav-item" data-page="insights" onclick="router('insights')"><span class="icon">◔</span><span>التحليلات والنمو</span></button>
+      </nav>
+    </div>
+
+    <div class="nav-group" data-group="events">
+      <button type="button" class="group-toggle" data-target="group-events" aria-expanded="true"><span>الفعاليات</span><i>▾</i></button>
+      <nav id="group-events" class="sidebar-nav group-body">
+        <button type="button" class="nav-item" data-page="events" onclick="router('events')"><span class="icon">▣</span><span>إدارة الفعاليات</span></button>
+        <button type="button" class="nav-item" data-page="eventbookings" onclick="router('eventbookings')"><span class="icon">▤</span><span>التسجيلات</span></button>
+        <button type="button" class="nav-item" data-page="tickets" onclick="router('tickets')"><span class="icon">⌘</span><span>التذاكر الرقمية</span></button>
+        <button type="button" class="nav-item" data-page="attendance" onclick="router('attendance')"><span class="icon">◎</span><span>إدارة الحضور</span></button>
+      </nav>
+    </div>
+
+    <div class="nav-group" data-group="community">
+      <button type="button" class="group-toggle" data-target="group-community" aria-expanded="true"><span>المجتمع</span><i>▾</i></button>
+      <nav id="group-community" class="sidebar-nav group-body">
+        <button type="button" class="nav-item" data-page="community" onclick="router('community')"><span class="icon">◉</span><span>إدارة المجتمع</span></button>
+        <button type="button" class="nav-item" data-page="ideas" onclick="router('ideas')"><span class="icon">◈</span><span>المبادرات والأفكار</span></button>
+      </nav>
+    </div>
+
+    <div class="nav-group" data-group="bookings">
+      <button type="button" class="group-toggle" data-target="group-bookings" aria-expanded="true"><span>الحجوزات</span><i>▾</i></button>
+      <nav id="group-bookings" class="sidebar-nav group-body">
+        <button type="button" class="nav-item" data-page="spacebookings" onclick="router('spacebookings')"><span class="icon">▥</span><span>حجوزات المساحة</span></button>
+      </nav>
+    </div>
+
+    <div class="nav-group" data-group="content">
+      <button type="button" class="group-toggle" data-target="group-content" aria-expanded="true"><span>المحتوى</span><i>▾</i></button>
+      <nav id="group-content" class="sidebar-nav group-body">
+        <button type="button" class="nav-item" data-page="sitedev" onclick="router('sitedev')"><span class="icon">✦</span><span>إدارة محتوى الموقع</span></button>
+      </nav>
+    </div>
+
+    <div class="nav-group" data-group="system">
+      <button type="button" class="group-toggle" data-target="group-system" aria-expanded="true"><span>النظام</span><i>▾</i></button>
+      <nav id="group-system" class="sidebar-nav group-body">
+        <button type="button" class="nav-item" data-page="settings" onclick="router('settings')"><span class="icon">⚙</span><span>الإعدادات</span></button>
+        <button type="button" class="nav-item" data-page="activitylog" onclick="router('activitylog')"><span class="icon">≣</span><span>سجل النشاطات</span></button>
+      </nav>
+    </div>
+
+    <div class="sidebar-footer">THE ZONE — الموصل<br>إدارة الفعاليات والمجتمع</div>
+  </aside>
+
+  <div class="app-main">
+    <header class="topbar">
+      <div class="topbar-left">
+        <button class="nav-toggle" id="nav-toggle" type="button" aria-label="فتح القائمة" aria-controls="admin-sidebar" aria-expanded="false"><span class="bars"><i></i><i></i><i></i></span></button>
+        <div class="topbar-title">
+          <h1 id="page-title">لوحة التحكم</h1>
+          <p id="page-sub">ملخص المنصة وآخر المستجدات.</p>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <button type="button" class="icon-btn" id="notif-btn" title="التنبيهات" onclick="router('insights')">🔔</button>
+        <div class="user-chip"><span class="dot"></span><span>مرحباً، <b id="user-name"></b></span></div>
+        <button class="btn-logout" id="btn-logout" type="button">تسجيل الخروج</button>
+      </div>
+    </header>
+
+    <main class="main" id="app-body"></main>
+  </div>
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<!-- ============ PAGE TEMPLATES ============ -->
+<section id="dashboard-page" class="page">
+  <div class="stats" id="stats"></div>
+  <div class="dashboard-grid">
+    <div class="panel"><div class="panel-head"><h3>طلبات ونشاط حديث</h3></div><div id="recent-requests" class="panel-body">جاري التحميل…</div></div>
+    <div class="panel"><div class="panel-head"><h3>تنبيهات وإجراءات</h3></div><div id="pending-actions" class="panel-body">جاري التحميل…</div></div>
+  </div>
+  <div class="dashboard-grid" style="margin-top:14px">
+    <div class="panel"><div class="panel-head"><h3>نمو التسجيلات (حقيقي)</h3></div><div id="chart-registrations" class="panel-body">جاري التحميل…</div></div>
+    <div class="panel"><div class="panel-head"><h3>أداء الفعاليات</h3></div><div id="chart-events" class="panel-body">جاري التحميل…</div></div>
+  </div>
+</section>
+
+<section id="insights-page" class="page">
+  <div class="page-actions"><div class="page-meta">مؤشرات الأداء ونشاط المنصة.</div></div>
+  <div id="insights-root">جاري التحميل…</div>
+</section>
+
+<section id="events-page" class="page">
+  <div class="page-actions">
+    <button class="btn-primary" type="button" onclick="openEventForm()">+ فعالية جديدة</button>
+    <div class="page-meta" id="events-stat">—</div>
+  </div>
+  <div id="events-operation-status" class="event-operation-status" role="status" aria-live="polite" hidden></div>
+  <div id="events-list">جاري التحميل…</div>
+  <div id="event-form-box" aria-live="polite"></div>
+</section>
+
+<section id="eventbookings-page" class="page">
+  <div class="page-actions"><div class="page-meta">إدارة تسجيلات الفعاليات والبحث فيها.</div></div>
+  <div id="eventbookings-list">جاري التحميل…</div>
+  <div id="eventbooking-detail" style="margin-top:14px"></div>
+</section>
+
+<section id="tickets-page" class="page">
+  <div class="page-actions"><div class="page-meta">إصدار التذاكر الرقمية وإدارتها.</div></div>
+  <div id="tickets-root">جاري التحميل…</div>
+</section>
+
+<section id="attendance-page" class="page">
+  <div class="page-actions"><div class="page-meta">تسجيل الحضور والتحقق من التذاكر.</div></div>
+  <div id="attendance-root">جاري التحميل…</div>
+</section>
+
+<section id="spacebookings-page" class="page">
+  <div class="page-actions"><div class="page-meta">طلبات حجز المساحة الواردة من الموقع العام</div></div>
+  <div id="spacebookings-list">جاري التحميل…</div>
+</section>
+
+<section id="community-page" class="page">
+  <div class="page-actions"><div class="page-meta">تسجيلات الانضمام للمجتمع الواردة من الموقع العام</div></div>
+  <div id="community-list">جاري التحميل…</div>
+</section>
+
+<section id="ideas-page" class="page">
+  <div class="page-actions"><div class="page-meta">الأفكار والمبادرات المقدمة من الزوار (مراجعة خاصة)</div></div>
+  <div id="ideas-list">جاري التحميل…</div>
+</section>
+
+<section id="settings-page" class="page">
+  <div id="settings-box">جاري التحميل…</div>
+</section>
+
+<section id="activitylog-page" class="page">
+  <div class="page-actions"><div class="page-meta">سجل الإجراءات الإدارية.</div></div>
+  <div id="activitylog-root">جاري التحميل…</div>
+</section>
+
+<section id="sitedev-page" class="page">
+  <div id="sitedev-root"></div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script type="module" src="js/supabase.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
